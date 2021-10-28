@@ -1,1 +1,59 @@
-.title{color: blue;}
+.type{font-family: 'Times New Roman', Times, serif, Microsoft JhengHei;
+    justify-content: center;
+    margin-left: auto; margin-right: auto; margin-top: 25px;
+    max-width: 800px;
+    background-color: #fffffe;
+    padding-top: 20px; padding-bottom: 20px}
+main {
+    display: flex;
+       }
+.pic {
+    margin-left: 225px;
+        }
+.title {
+    font-size: 30px; font-weight: bold;
+    text-align: left;
+    margin-left: 35px;
+    color:darkblue
+    }
+.connect {
+    font-size: 16px; font-weight: lighter;
+    color:slategrey;
+    padding-top: 10px;
+    }
+.link {
+    width: 95%;
+    height: 2px;
+    border: none;
+    background-color: #7ecdfa;
+    }
+.text {
+    font-size: 20px;
+    text-align: justify;
+    line-height: 33px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-top: 10px;
+    }
+.edu {
+    margin-left: auto; margin-right: auto;
+}
+.work{
+    margin-left: auto; margin-right: auto;
+}
+.line {
+    font-size: 18px;
+    text-align: left;
+    line-height: 33px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+.license {
+    font-size: 18px;
+    text-align: left;
+    line-height: 33px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-top: 10px;
+}
